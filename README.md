@@ -12,10 +12,6 @@ I am a data scientist from New York, NY
 <br>
 <br>
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
- 
-<!-- BLOG-POST-LIST:END -->
 
 <!-- 
 **JasminFlack/JasminFlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
