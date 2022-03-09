@@ -5,11 +5,11 @@ I am a data scientist from New York, NY
 - 🔭 Working on personal portfolio projects using data I find interesting
 
 <br>
+
 ## Connect with me
 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jasmin-flack-238360118/)
-
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@jasminflack)
 
 <br>
